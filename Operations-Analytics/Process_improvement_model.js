@@ -1,0 +1,22 @@
+graph TD;
+  A[Identify Key Operational Processes] -->|Define Problem with SMART Goals| B1(Specific objectives)
+  B1 --> C1(Measure Baseline Performance)
+  C1 --> C(Achievable Targets)
+  C --> D(Relevant Strategies)
+  D --> E(Time-bound Action Plan)
+  E --> F(Implement)
+  F --> G(Analyze Each Process for Improvement)
+  G --> H(Develop Solutions)
+  H --> I(Execute Solution)
+  I --> J(Monitor and Evaluate)
+  J --> K(Continuous Improvement)
+  K --> L(Documentation and Communication)
+  L --> M(Iterative Refinement)
+  M --> N(Periodically Revisit)
+
+  G -->|Detailed Analysis| O(Identify Bottlenecks, Inefficiencies)
+  O -->|Lean/Six Sigma| P(Implement Methodologies)
+  P -->|Utilize Tools| Q(Simulation Tools, Optimization Algorithms)
+
+  J -->|Utilize KPIs| R(Use Key Performance Indicators)
+  Q -->|Test Scenarios| S(Model and Test Scenarios)
